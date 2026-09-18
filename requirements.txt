@@ -1,0 +1,7 @@
+pytest==8.4.2
+playwright==1.63.0
+pytest-playwright==0.9.0
+pytest-html==4.1.1
+pydantic-settings==2.11.0
+pytest-check==2.6.2
+requests==2.34.2
